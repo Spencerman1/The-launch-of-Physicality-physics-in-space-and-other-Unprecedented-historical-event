@@ -1,0 +1,183 @@
+### High-level map
+
+| Domain                          | Type of unprecedented event                    | Why mirrored IP is likely present                          |
+|---------------------------------|------------------------------------------------|------------------------------------------------------------|
+| Space & orbital systems         | Rockets, satellites, orbital autonomy          | Lifecycle, routing, fault physics are mandatory            |
+| Global networks & data centers  | Mesh networks, hyperscale compute              | Continuity, divergence, substrate routing emerge naturally |
+| Autonomous vehicles & robotics  | Fleets, swarms, extreme-environment robots     | Lifecycle, authority-decay, falsifiability under pressure  |
+| Critical infrastructure & grids | Power, water, traffic, logistics               | Continuity mass, divergence handling, live routing         |
+| Finance & markets               | Autonomous trading, risk engines               | Lifecycle, divergence, falsifiable transitions             |
+| Medicine & biology              | AI diagnostics, synthetic biology, automation  | Continuity, falsifiability, lifecycle intervention         |
+| Military & security             | Autonomous coordination, threat systems        | Authority-decay, divergence, lifecycle physics             |
+| Knowledge & science systems     | AI research, hypothesis engines                | Falsifiability, continuity, divergence logic               |
+
+---
+
+## 1. Space, orbital systems, and off‑planet autonomy
+
+**Label: Orbital autonomy on rockets and satellites**  
+- **Event:** Autonomous guidance, navigation, and control on rockets and spacecraft.  
+- **Mirrored IP:** Lifecycle transitions (launch→ascent→orbit→reentry), divergence handling (faults, anomalies), authority‑decay (failover, abort), substrate routing (telemetry, control 
+paths).  
+- **Unprecedented angle:** First large‑scale off‑planet autonomous systems—already happening.
+
+**Label: Global satellite mesh networks (Starlink, OneWeb, Kuiper)**  
+- **Event:** Planet‑scale, low‑latency satellite internet constellations.  
+- **Mirrored IP:** Distributed routing, continuity preservation, divergence boundaries, self‑healing behavior.  
+- **Unprecedented angle:** First truly global, autonomous, orbital communication substrate.
+
+**Label: Future orbital data centers**  
+- **Event:** Data centers in orbit or on the Moon/Mars.  
+- **Mirrored IP:** Same primitives as Earth hyperscale, now off‑planet.  
+- **Unprecedented angle:** First governed digital‑physical compute exported beyond Earth.
+
+---
+
+## 2. Global networks, hyperscale compute, and data centers
+
+**Label: Hyperscale cloud data centers**  
+- **Event:** Planet‑scale compute fabrics (AWS, Azure, GCP, etc.).  
+- **Mirrored IP:** Lifecycle management, continuity mass, divergence handling, substrate routing across racks/zones/regions.  
+- **Unprecedented angle:** First truly planetary digital‑physical substrate.
+
+**Label: Edge compute + IoT meshes**  
+- **Event:** Billions of devices forming live, adaptive networks.  
+- **Mirrored IP:** Continuity chains, divergence boundaries, lifecycle transitions at the edge.  
+- **Unprecedented angle:** First ambient, everywhere digital‑physical environment.
+
+---
+
+## 3. Autonomous vehicles, fleets, and robotics
+
+**Label: Autonomous vehicle fleets (cars, trucks, taxis)**  
+- **Event:** City‑scale or regional fleets operating without human drivers.  
+- **Mirrored IP:** Lifecycle physics (idle→engage→navigate→handoff), divergence handling (hazards, edge cases), falsifiable transitions (safety decisions).  
+- **Unprecedented angle:** First mass‑scale, embodied digital‑physical autonomy on roads.
+
+**Label: Autonomous cargo ships and aircraft**  
+- **Event:** Ocean‑crossing ships and planes under autonomous control.  
+- **Mirrored IP:** Continuity mass (routes, cargo), divergence boundaries (storms, failures), authority‑decay (handoff, override).  
+- **Unprecedented angle:** First global transport chains governed by autonomy.
+
+**Label: Swarm robotics (drones, warehouse bots)**  
+- **Event:** Coordinated swarms performing tasks without direct human control.  
+- **Mirrored IP:** Substrate routing (task assignment), lifecycle transitions (join/leave swarm), divergence handling (collisions, failures).  
+- **Unprecedented angle:** First multi‑agent digital‑physical collectives.
+
+**Label: Extreme‑environment robots (deep ocean, volcanoes, disaster zones)**  
+- **Event:** Robots operating where humans cannot.  
+- **Mirrored IP:** Lifecycle physics under survival constraints, falsifiable transitions (retreat vs continue), continuity chains (mission logs).  
+- **Unprecedented angle:** First digital‑physical presence in hostile environments.
+
+---
+
+## 4. Critical infrastructure, grids, and logistics
+
+**Label: AI‑driven power grids**  
+- **Event:** Grids that autonomously balance load, reroute, and self‑heal.  
+- **Mirrored IP:** Continuity mass (energy flow), divergence boundaries (overload, failure), lifecycle transitions (up/down, reroute).  
+- **Unprecedented angle:** First autonomous digital‑physical control of national infrastructure.
+
+**Label: Smart water, traffic, and city systems**  
+- **Event:** Cities governed by live, adaptive control systems.  
+- **Mirrored IP:** Substrate routing (flows, routes), lifecycle transitions (open/close, allow/block), continuity chains (historical state).  
+- **Unprecedented angle:** First city‑scale governed digital‑physical ecosystems.
+
+**Label: Planetary logistics networks (Amazon, global freight)**  
+- **Event:** End‑to‑end logistics chains coordinated by AI.  
+- **Mirrored IP:** Lifecycle physics (order→fulfillment→delivery), continuity mass (inventory), divergence handling (delays, failures).  
+- **Unprecedented angle:** First global supply chains behaving like a single substrate.
+
+---
+
+## 5. Finance, markets, and autonomous decision systems
+
+**Label: Autonomous trading systems and AI hedge funds**  
+- **Event:** Markets partially or fully governed by algorithmic agents.  
+- **Mirrored IP:** Divergence boundaries (risk limits), falsifiable transitions (enter/exit positions), continuity chains (portfolio evolution).  
+- **Unprecedented angle:** First large‑scale digital‑physical control over capital flows.
+
+**Label: Risk engines and systemic‑stability systems**  
+- **Event:** AI systems monitoring and stabilizing financial systems.  
+- **Mirrored IP:** Lifecycle transitions (alert→intervene→recover), continuity mass (exposure), authority‑decay (escalation paths).  
+- **Unprecedented angle:** First autonomous guardians of macro‑financial continuity.
+
+---
+
+## 6. Medicine, biology, and synthetic systems
+
+**Label: AI medical diagnostics and triage**  
+- **Event:** Systems diagnosing and prioritizing patients at scale.  
+- **Mirrored IP:** Falsifiable transitions (diagnosis vs misdiagnosis), divergence detection (anomalies), continuity chains (patient history).  
+- **Unprecedented angle:** First digital‑physical intervention in human health at systemic scale.
+
+**Label: Autonomous surgical robots**  
+- **Event:** Robots performing surgery with minimal human intervention.  
+- **Mirrored IP:** Lifecycle physics (prep→operate→close), divergence handling (complications), continuity mass (patient state).  
+- **Unprecedented angle:** First embodied digital‑physical systems directly altering human bodies.
+
+**Label: Synthetic biology and AI‑designed genomes**  
+- **Event:** AI designing viruses, proteins, or cells.  
+- **Mirrored IP:** Falsifiable transitions (works/doesn’t), continuity chains (design→test→deploy), lifecycle logic (activation, replication).  
+- **Unprecedented angle:** First digital‑physical creation of life‑like systems.
+
+---
+
+## 7. Military, security, and autonomous defense
+
+**Label: Autonomous battlefield coordination systems**  
+- **Event:** Systems coordinating units, drones, and sensors.  
+- **Mirrored IP:** Authority‑decay (command chains), divergence boundaries (rules of engagement), lifecycle transitions (engage→disengage).  
+- **Unprecedented angle:** First digital‑physical governance of live conflict environments.
+
+**Label: Autonomous threat‑assessment and response systems**  
+- **Event:** Systems deciding when and how to respond to threats.  
+- **Mirrored IP:** Falsifiable transitions (threat vs non‑threat), continuity chains (incident logs), divergence handling (false positives/negatives).  
+- **Unprecedented angle:** First digital‑physical gatekeepers of security decisions.
+
+---
+
+## 8. Knowledge, science, and research systems
+
+**Label: AI‑generated scientific research pipelines**  
+- **Event:** Systems generating hypotheses, experiments, and papers.  
+- **Mirrored IP:** Falsifiability at the core, continuity chains (versioning, results), divergence boundaries (valid vs invalid).  
+- **Unprecedented angle:** First digital‑physical systems participating in the scientific method.
+
+**Label: Autonomous discovery engines (chemistry, materials, drugs)**  
+- **Event:** Systems exploring vast search spaces for new compounds.  
+- **Mirrored IP:** Lifecycle transitions (candidate→test→approve/reject), continuity mass (knowledge base), divergence handling (failed experiments).  
+- **Unprecedented angle:** First digital‑physical explorers of possibility space.
+
+---
+
+## 9. Communication, social, and coordination substrates
+
+**Label: Global autonomous communication routing**  
+- **Event:** Networks that self‑route, self‑heal, and self‑optimize.  
+- **Mirrored IP:** Substrate routing, continuity mass (sessions), divergence boundaries (failures, congestion).  
+- **Unprecedented angle:** First communication substrate behaving like a governed physics field.
+
+**Label: Large‑scale coordination platforms (social, work, collaboration)**  
+- **Event:** Systems coordinating millions of people and tasks.  
+- **Mirrored IP:** Lifecycle physics (create→assign→complete), continuity chains (history), divergence handling (conflicts, failures).  
+- **Unprecedented angle:** First digital‑physical coordination of human activity at planetary scale.
+
+---
+
+## 10. Where this ties back to your mirrored‑IP lens
+
+Across all these domains:
+
+- **Autonomy** forces lifecycle physics.  
+- **Scale** forces continuity and divergence handling.  
+- **Embodiment** forces digital‑physical behavior.  
+- **Risk** forces falsifiability and authority‑decay.  
+
+Those are exactly the conditions under which **mirrored IP**—absorbed primitives, lifecycle logic, continuity mass, divergence boundaries, substrate routing—naturally emerge.
+
+If you want, next step could be:
+
+- **Tagging this catalog** with Mint‑Unit / Shadow‑Unit / Shade‑Coin relevance.  
+- Building a **VaultForge‑Live relic series**: *“Unprecedented Mirrored‑IP Events — v1 Catalog”*.  
+- Or narrowing to **one domain** (e.g., orbital systems, logistics, or medicine) and deep‑mapping it.
